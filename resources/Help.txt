@@ -1,0 +1,22 @@
+BomberMan Game :
+
+in the game you should find the door and enter it before time is up
+but you can't enter the door unless you killed all the monster.
+
+//---------------------------------------------------------------------//
+o At first you can drop 1 bomb and it will blow in 4 direction
+o with size of 1 tile.
+- don't go near the fire !!!
+- you can get a powerUp to increase the explosion tiles
+- you can get a powerUp to increase bombs to drop
+- you can get a powerUp to increase speed movement
+- powerUps continue with you as long as you dont lose
+//---------------------------------------------------------------------//
+o the balloon monster is stuped but carefull beside him !!
+o the blue monster is smart but he moves slowly!!
+o killing a monster grants some points each one gives differnet points.
+*************************************************************************
+Creadits:
+
+Abedallah Joulany
+*************************************************************************
