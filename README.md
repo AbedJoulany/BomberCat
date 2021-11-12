@@ -10,7 +10,7 @@
 
 •	קישור מראה סרטון למשחק :
 
-https://www.youtube.com/watch?v=3smytj9Bu_E&t=295s
+https://youtu.be/wceW7Mr6j7k
 
 -	הזכרתי בבחירת המשחק שאני לא ממש תזוזה למסך
 
